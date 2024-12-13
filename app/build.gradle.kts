@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.nearbyproject"
+    namespace = "com.medina.nearbyproject"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.nearbyproject"
+        applicationId = "com.medina.nearbyproject"
         minSdk = 24
         targetSdk = 35
         versionCode = 1
